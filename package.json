@@ -1,0 +1,12 @@
+{
+  "name": "money_finance",
+  "version": "0.0.1",
+  "dependencies": {
+    "@slidev/theme-default": "*",
+    "playwright-chromium": "*",
+    "slidev-theme-academic": "^1.3.1"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.14.1"
+  }
+}

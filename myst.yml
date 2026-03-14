@@ -1,0 +1,21 @@
+---
+version: 1
+project:
+  id: final-project-margaret2931
+  title: "PARTIAL REPLICATION : MARKET-BASED MONETARY POLICY UNCERTAINTY"
+  description: Monetary policy uncertainty's impact on financial markets.
+  authors:
+    - name: Margaret Vincent
+      affiliations: [University of Bonn]
+      email: s44mvinc@uni-bonn.de
+  keywords: [economics, finance, monetary policy, reproducible research]
+  bibliography: [documents/refs.bib]
+  toc:
+    - file: documents/paper.md
+    - file: documents/references.md
+  exclude: [documents/presentation.md]
+site:
+  template: book-theme
+  options:
+    favicon: null
+    logo: null

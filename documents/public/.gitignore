@@ -1,0 +1,11 @@
+*.svg
+*.png
+*.jpg
+# Override for static figures with
+!image.svg
+
+
+data/*.csv
+!data/fomc_actions_clean.csv
+!data/mpu.csv
+!data/tab4data.csv
